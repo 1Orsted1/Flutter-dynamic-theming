@@ -1,0 +1,15 @@
+targets:
+  $default:
+    sources:
+      - "build/**" # optional; only assets/* and lib/* are scanned by build_runner
+    builders:
+      slang_build_runner:
+        options:
+          input_directory: lib/i18n
+          output_directory: lib/i18n
+          output_file_name: translations.dart
+          lazy: true
+          flutter_integration: true
+          translate_var: t
+          string_interpolation: braces
+          timestamp: false

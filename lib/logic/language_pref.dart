@@ -1,0 +1,1 @@
+enum LanguagePref { es, en }

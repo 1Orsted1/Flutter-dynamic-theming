@@ -1,0 +1,25 @@
+{
+    "lang": "es",
+    "homeAppbarTitle": "Bienvenido de regreso!",
+    "dashboardTitle": "Esto es lo que está pasando hoy",
+    "dashboardSubtitle": "Tienes 3 tareas pendientes y 2 notificaciones nuevas que requieren tu atención.",
+    "userCardT": "Usuario",
+    "growthCardT": "Crecimiento",
+    "performanceCardT": "Rendimiento",
+    "activityCardT": "Actividad",
+    "actionsCardT": "Acciones",
+    "cardsSubtitle": [
+        "personaliza tu usuario.",
+        "Los ingresos totales alcanzaron $45,890 este trimestre, superando las proyecciones en un 8% con crecimiento constante.",
+        "Todos los sistemas funcionan correctamente con un 99.8% de tiempo activo. El tiempo de respuesta promedio es de 245ms.",
+        "La última actualización fue hace 5 minutos. Consulta tus transacciones más recientes e interacciones de usuarios aquí.",
+        "Accede rápidamente a las funciones más utilizadas. Crea informes, gestiona usuarios o actualiza configuraciones en un clic."
+    ],
+    "warningTitle": "Advertencia de Límite de Almacenamiento",
+    "warningSubtitle": "Te estás quedando sin espacio",
+    "warningMessage": "Tu almacenamiento está al 85% de su capacidad. Por favor, elimina archivos innecesarios o actualiza tu plan para evitar interrupciones del servicio.",
+    "share": "Compartir",
+    "settings": "Configuracion",
+    "theme": "Tema",
+    "langLabel": "Idioma"
+}

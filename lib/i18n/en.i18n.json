@@ -1,0 +1,25 @@
+{
+    "lang": "en",
+    "homeAppbarTitle": "Welcome back",
+    "dashboardTitle": "Here's what's happening today",
+    "dashboardSubtitle": "You have 3 pending tasks that require your attention.",
+    "userCardT": "User",
+    "growthCardT": "Growth",
+    "performanceCardT": "Performance",
+    "activityCardT": "Activity",
+    "actionsCardT": "Actions",
+    "cardsSubtitle": [
+        "personalize your user",
+        "Total revenue reached $45,890 this quarter, exceeding projections by 8% with steady growth.",
+        "All systems running smoothly with 99.8% uptime. Server response time averages 245ms.",
+        "Last update was 5 minutes ago. View your most recent transactions and user interactions here.",
+        "Access frequently used features quickly. Create reports, manage users, or update settings in one click."
+    ],
+    "warningTitle": "Storage Limit Warning",
+    "warningSubtitle": "You're running low on space",
+    "warningMessage": "Your storage is 85% full. Please delete unnecessary files or upgrade your plan to avoid service interruption",
+    "share": "Share",
+    "settings": "Settings",
+    "theme": "Theme",
+    "langLabel": "Laguage"
+}
